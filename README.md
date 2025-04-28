@@ -35,5 +35,5 @@ Un bot de Discord básico usando `discord.py`, perfecto como punto de partida pa
 Este proyecto está bajo la licencia MIT.
 ¡Puedes usarlo, modificarlo y compartirlo libremente!
 
-🎉 Créditos
+## 🎉 Créditos
 Desarrollado con 💖 por **Shamuel942**.
